@@ -1,0 +1,10 @@
+<RecOptions>
+F1 -
+F2 -
+F3 -
+F4 - Safe Mode
+F5 - Safe Mode with Network
+F6 - Safe Mode with Command Prompt
+F7 -
+F8 -
+F9 - Disable automatic restart for system failure
